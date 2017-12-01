@@ -14,7 +14,7 @@ function fun1() {
   var radio = document.getElementsByName('r1');
   for (var i = 0; i < radio.length; i++) {
     if (radio[i].checked) {
-      alert('Ваш ответ ' +i[value]+ ' и это кончательный ответ');
+      alert('Ваш ответ ' +i+ ' и это кончательный ответ');
     }
   }
 }
