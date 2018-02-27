@@ -7,8 +7,8 @@
   } else {
     alert('Не выбран');
   }
-}
-   */
+} */
+  
 
 function fun1() {
   var radio = document.getElementsByName('r1');
